@@ -1,0 +1,5 @@
+.env
+venv
+essay_index.faiss
+esssay_metadata.pkl
+essay_set_7.csv
